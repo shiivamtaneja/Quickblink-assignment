@@ -316,7 +316,7 @@ function App() {
                 disabled={!url || error || loading}
                 onClick={handleSubmit}
               >
-                Submit Result
+                Get Result
               </button>
             </form>
 
